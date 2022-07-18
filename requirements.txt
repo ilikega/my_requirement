@@ -4,3 +4,5 @@ scikit-opt
 blind_watermark
 text_blind_watermark
 pyLSHash
+blind-watermark
+text-blind-watermark
